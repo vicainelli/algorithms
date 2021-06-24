@@ -1,4 +1,3 @@
-const { expect, test } = require('@jest/globals')
 const fareEstimator = require('./fareEstimator')
 
 test('should return correct test case 1', () => {
