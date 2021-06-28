@@ -6,13 +6,13 @@
 
 ### Company challenges
 
-
 #### Dropbox
-- [x] [incorrectPasscodeAttempts](company-challenges/dropbox/incorrectPasscodeAttempts.js)
+
+- [x] [incorrectPasscodeAttempts](code-signal/company-challenges/dropbox/incorrectPasscodeAttempts.js)
 
 #### Uber
 
-- [x] [fareEstimator](company-challenges/uber/fareEstimator.js)
+- [x] [fareEstimator](code-signal/company-challenges/uber/fareEstimator.js)
 - [ ] perfectCity
 - [ ] parkingSpot
 - [ ] fancyRide
