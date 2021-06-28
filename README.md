@@ -4,6 +4,16 @@
 
 ## Code Signal
 
+### Arcade
+
+#### Intro
+
+##### The Journey Begins
+
+- [x] [add](code-signal/arcade/intro/the-journey-begins/add.js)
+- [x] [centuryFromYear](code-signal/arcade/intro/the-journey-begins/centuryFromYear.js)
+- [x] [checkPalindrome](code-signal/arcade/intro/the-journey-begins/checkPalindrome.js)
+
 ### Company challenges
 
 #### Dropbox
